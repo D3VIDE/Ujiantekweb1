@@ -1,0 +1,23 @@
+.custom-card {
+  width: 15rem;
+  position: relative;
+  margin-right: 20px;
+}
+#cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.custom-size{
+  font-size: 13px;
+  width: 120px;
+  height: 30px;
+}
+
+#ImageTitle{
+  padding-bottom: 4px;
+}
+#DescriptionTitle{
+  padding-bottom: 4px;
+}
+
